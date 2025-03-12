@@ -1,5 +1,5 @@
-# Stockdapter-for-KirssVector
-- 改进过的短剑后托折叠ar转接  
+# StockAdapter-for-KirssVector
+- 改进过的短剑后托折叠AR转接  
 - 原作者https://bbs.sdgun.com.cn/thread-2228788-1-1.html
 - 数据更接近官方的转接  
 - 带下沉设计
