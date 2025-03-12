@@ -1,4 +1,5 @@
 # StockAdapter-for-KirssVector
+  乐辉短剑后托折叠AR转接
 - 改进过的短剑后托折叠AR转接  
 - 感谢开源https://bbs.sdgun.com.cn/thread-2228788-1-1.html
 - 数据更接近官方的转接  
